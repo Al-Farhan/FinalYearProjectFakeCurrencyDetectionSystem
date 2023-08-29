@@ -1,0 +1,59 @@
+
+/* .container-fluid {
+    background-color: black;
+    color: white; 
+}
+
+.nav-link {
+    color: wheat;
+}
+
+.nav-link:hover {
+    color: wheat;
+} */
+
+/* Check html code */
+.check-heading {
+    font-family: 'ADLaM Display', cursive;
+    color: white;
+}
+
+
+* {
+    font-family: 'ADLaM Display', cursive;
+}
+
+body {
+    background: url("assets/cover-img-2.jpg");
+    background-size: cover;
+}
+
+.card-heading {
+    color: white;
+    font-size: 150px;
+}
+
+.card-information {
+    display: flex;
+    flex-direction: column;
+    justify-content: left;
+}
+
+.card-heading {
+    margin-top: 100px;
+}
+
+.card-description {
+    color: white;
+}
+
+.carousel {
+    height: 500px;
+}
+
+.cover-img-item {
+    width: 100%;
+    background-size: cover;
+    /* height: 100vh; */
+}
+
